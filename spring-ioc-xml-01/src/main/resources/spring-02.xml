@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <1.0单个构造参数注入-->
+    <bean id="userDao" class="com.lihanlin.ioc02.UserDao"/>
+    <bean id="userService" class="com.lihanlin.ioc02.UserService">
+<!--        di的配置-->
+<!--        <constructor-arg构造参数传值的di配置
+value=直接属性值 ref=应用其他的bean  beanId值
+-->
+        <constructor-arg  ref="userDao"/>
+
+</bean>
+    <bean id="userService1" class="com.lihanlin.ioc02.UserService">
+<!-- 1       构造参数顺序写值 value直接赋值 ref引用其他的beanid-->
+        <constructor-arg value="18" />
+        <constructor-arg value="李瀚林" />
+        <constructor-arg ref="userDao" />
+    </bean>
+
+    <bean id="userService2" class="com.lihanlin.ioc02.UserService">
+        <!--2        构造参数顺序写值 value直接赋值 ref引用其他的beanid-->
+        <constructor-arg name="name" value="李瀚林" />
+        <constructor-arg name="age" value="19"/>
+        <constructor-arg name="userDao" ref="userDao" />
+    </bean>
+
+    <!--3 触发setter方法进行注入 -->
+    <bean id="movieFinder" class="com.lihanlin.ioc02.MovieFinder"/>
+    <bean id="simpleMovieLister" class="com.lihanlin.ioc02.SimpleMovieLister">
+        <property name="movieName"  value="围城"/>
+        <property name="movieFinder" ref="movieFinder"/>
+    </bean>
+</beans>

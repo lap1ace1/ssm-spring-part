@@ -1,0 +1,13 @@
+com\lihanlin\ioc02\SimpleMovieLister.class
+com\lihanlin\ioc05\JavaBeanFactorBean.class
+com\lihanlin\ioc05\JavaBean.class
+com\lihanlin\ioc04\JavaBean2.class
+com\lihanlin\ioc01\ClientServiceImpl.class
+com\lihanlin\ioc01\DefaultServiceLocator.class
+com\lihanlin\ioc03\HappyComponent.class
+com\lihanlin\ioc02\UserService.class
+com\lihanlin\ioc02\MovieFinder.class
+com\lihanlin\ioc01\ClientService.class
+com\lihanlin\ioc02\UserDao.class
+com\lihanlin\ioc01\HappyComponent.class
+com\lihanlin\ioc04\JavaBean.class
