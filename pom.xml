@@ -12,6 +12,11 @@
         <module>spring-ioc-xml-01</module>
         <module>spring-ioc-xml-p-02</module>
         <module>spring-ioc-annotation-03</module>
+        <module>spring-ioc-annotation-practice-05</module>
+        <module>spring-ioc-java-06</module>
+        <module>spring-java-practies-07</module>
+        <module>spring-aop-annotation_09</module>
+        <module>spring-aop-annotation_10</module>
     </modules>
 
     <properties>
@@ -45,11 +50,26 @@
             <artifactId>druid</artifactId>
             <version>1.2.8</version>
         </dependency>
+        <dependency>
+            <groupId>jakarta.annotation</groupId>
+            <artifactId>jakarta.annotation-api</artifactId>
+            <version>2.1.1</version>
+        </dependency>
 
         <!-- spring-jdbc -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-jdbc</artifactId>
+            <version>6.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aspects</artifactId>
+            <version>6.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
             <version>6.0.6</version>
         </dependency>
     </dependencies>

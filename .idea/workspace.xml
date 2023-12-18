@@ -4,125 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be224778-b281-4e0b-baaa-2d7635b60844" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_01/CommonComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_01/XxxController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_01/XxxDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_01/XxxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_02/JavaBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_03/NewUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_03/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_03/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_03/UserServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/lihanlin/ioc_4/JavaBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/resources/spring-01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/resources/spring-02.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/resources/spring-03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/resources/spring-04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/test/java/com/lihanlin/test/SpringIoCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_01/CommonComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_01/XxxController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_01/XxxDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_01/XxxService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_02/JavaBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_03/NewUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_03/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_03/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_03/UserServiceImp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/com/lihanlin/ioc_4/JavaBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/spring-01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/spring-02.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/spring-03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/classes/spring-04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/spring-ioc-annotation-03-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/target/test-classes/com/lihanlin/test/SpringIoCTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/spring-ioc-xml-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc01/ClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc01/ClientServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc01/DefaultServiceLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc01/HappyComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc02/MovieFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc02/SimpleMovieLister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc02/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc02/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc03/HappyComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc04/JavaBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc04/JavaBean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc05/JavaBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/java/com/lihanlin/ioc05/JavaBeanFactorBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/resources/spring-01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/resources/spring-02.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/resources/spring-03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/resources/spring-04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/main/resources/spring-05.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/test/java/com/lihanlin/SpringIoCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc01/ClientService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc01/ClientServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc01/DefaultServiceLocator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc01/HappyComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc02/MovieFinder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc02/SimpleMovieLister.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc02/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc02/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc03/HappyComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc04/JavaBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc04/JavaBean2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc05/JavaBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/com/lihanlin/ioc05/JavaBeanFactorBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/spring-01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/spring-02.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/spring-03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/spring-04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/classes/spring-05.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/spring-ioc-xml-01-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/surefire-reports/TEST-com.lihanlin.SpringIoCTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/surefire-reports/com.lihanlin.SpringIoCTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/test-classes/com/lihanlin/SpringIoCTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/main/java/com/lihanlin/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/main/java/com/lihanlin/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/main/java/com/lihanlin/dao/impl/StudentDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/main/java/com/lihanlin/pojo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/main/java/com/lihanlin/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/main/java/com/lihanlin/service/impl/StudentServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/main/resources/spring-01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/main/resources/spring-02.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/src/test/java/com/lihanlin/jdbc/JdbcTemplateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/classes/com/lihanlin/pojo/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/classes/spring-01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/spring-ioc-xml-p-02-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/surefire-reports/TEST-com.lihanlin.jdbc.JdbcTemplateTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/surefire-reports/com.lihanlin.jdbc.JdbcTemplateTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-xml-p-02/target/test-classes/com/lihanlin/jdbc/JdbcTemplateTest.class" afterDir="false" />
+    <list default="true" id="be224778-b281-4e0b-baaa-2d7635b60844" name="更改" comment="spring">
+      <change afterPath="$PROJECT_DIR$/spring-aop-annotation_09/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-aop-annotation_10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-ioc-java-06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-java-practies-07/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,10 +54,12 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Y9uNOy2JN6fvebc1L7oXl6InBd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -176,7 +69,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/idea/ssm-spring-part&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/idea/ssm-spring-part/spring-java-practies-07/src/main/resources&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -185,9 +78,14 @@
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.17382812&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.24378698&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;e63066a68eccd72ab741b8edca9b93a3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;a50298432dc61889e885e5a994e74bd2&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -195,11 +93,28 @@
       <recent name="com.lihanlin.ioc_02" />
       <recent name="com.lihanlin.jdbc" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\ssm-spring-part\spring-java-practies-07\src\main\resources" />
+      <recent name="D:\idea\ssm-spring-part\spring-java-practies-07\src\main\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.lihanlin.ioc03" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SpringIoCTest.test3 (1)">
+  <component name="RunManager" selected="JUnit.SpringAop_test">
+    <configuration name="UseAop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lihanlin.UseAop" />
+      <module name="spring-aop-annotation_09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lihanlin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JdbcTemplateTest.testForIoC" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="spring-ioc-xml-p-02" />
       <extension name="coverage">
@@ -216,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringIoCTest.test2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-ioc-annotation-03" />
+    <configuration name="SpringAop_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-aop-annotation_10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lihanlin.test.*" />
@@ -225,31 +140,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lihanlin.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lihanlin.test.SpringIoCTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.lihanlin.test.SpringAop_test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringIoCTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-ioc-xml-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lihanlin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lihanlin" />
-      <option name="MAIN_CLASS_NAME" value="com.lihanlin.SpringIoCTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringIoCTest.test3 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-ioc-annotation-03" />
+    <configuration name="SpringAop_test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-aop-annotation_10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lihanlin.test.*" />
@@ -257,40 +155,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lihanlin.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lihanlin.test.SpringIoCTest" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="MAIN_CLASS_NAME" value="com.lihanlin.test.SpringAop_test" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringIoCTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-ioc-xml-01" />
+    <configuration name="SpringIoCTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-java-practies-07" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lihanlin.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lihanlin" />
-      <option name="MAIN_CLASS_NAME" value="com.lihanlin.SpringIoCTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.SpringIoCTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringIoCTest.testIoC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-ioc-annotation-03" />
+    <configuration name="SpringIoCTest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-java-practies-07" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lihanlin.test.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lihanlin.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lihanlin.test.SpringIoCTest" />
-      <option name="METHOD_NAME" value="testIoC" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.SpringIoCTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -298,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpringIoCTest.test3 (1)" />
-        <item itemvalue="JUnit.SpringIoCTest.test2 (1)" />
-        <item itemvalue="JUnit.SpringIoCTest.testIoC" />
-        <item itemvalue="JUnit.SpringIoCTest.test2" />
-        <item itemvalue="JUnit.SpringIoCTest.test3" />
+        <item itemvalue="JUnit.SpringAop_test" />
+        <item itemvalue="JUnit.SpringAop_test.test1" />
+        <item itemvalue="JUnit.SpringIoCTest.test1 (1)" />
+        <item itemvalue="应用程序.UseAop" />
+        <item itemvalue="JUnit.SpringIoCTest" />
       </list>
     </recent_temporary>
   </component>
@@ -328,12 +225,55 @@
       <workItem from="1700199258957" duration="11033000" />
       <workItem from="1700216849641" duration="251000" />
       <workItem from="1700269393682" duration="166000" />
-      <workItem from="1700269571534" duration="729000" />
+      <workItem from="1700269571534" duration="5005000" />
+      <workItem from="1700276055843" duration="1410000" />
+      <workItem from="1700462128594" duration="17000" />
+      <workItem from="1700568746052" duration="6277000" />
+      <workItem from="1700878551931" duration="696000" />
+      <workItem from="1700882260750" duration="2374000" />
+      <workItem from="1700886074874" duration="323000" />
+      <workItem from="1700886414650" duration="13000" />
+      <workItem from="1701073476735" duration="4000" />
+      <workItem from="1701673920325" duration="114000" />
+      <workItem from="1701674128084" duration="4000" />
+      <workItem from="1701678842234" duration="689000" />
+      <workItem from="1701684944333" duration="12000" />
+      <workItem from="1701684970104" duration="121000" />
+      <workItem from="1701827196494" duration="44000" />
+      <workItem from="1702541665163" duration="2663000" />
+      <workItem from="1702555325301" duration="52000" />
+      <workItem from="1702704242230" duration="4439000" />
+      <workItem from="1702709218934" duration="259000" />
+      <workItem from="1702726363159" duration="3048000" />
+      <workItem from="1702787540486" duration="186000" />
+      <workItem from="1702787945017" duration="32000" />
+      <workItem from="1702819509297" duration="1403000" />
+      <workItem from="1702878854497" duration="451000" />
+      <workItem from="1702879365093" duration="1858000" />
     </task>
+    <task id="LOCAL-00001" summary="spring">
+      <created>1700270543253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700270543253</updated>
+    </task>
+    <task id="LOCAL-00002" summary="spring">
+      <created>1700274102415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700274102415</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

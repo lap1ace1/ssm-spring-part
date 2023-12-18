@@ -6,10 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-aop-annotation_09" />
         <module name="spring-ioc-xml-01" />
-        <module name="spring-ioc-annotation-03" />
+        <module name="spring-ioc-annotation-practice-05" />
+        <module name="spring-ioc-java-06" />
         <module name="spring-ioc-xml-p-02" />
+        <module name="spring-ioc-annotation-03" />
+        <module name="spring-java-practies-07" />
+        <module name="spring-aop-annotation_10" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-aop-annotation-09" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
